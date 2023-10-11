@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             // Console.WriteLine("Hello, World!");
-            Console.WriteLine("Merhabayın gencler");
+            Console.WriteLine("Merhabayın gencler");llllll
 
         }
     }
